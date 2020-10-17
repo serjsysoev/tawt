@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>ru.textanalysis.tawt</groupId>
+    <groupId>com.github.serjsysoev</groupId>
     <name>_parent</name>
     <description>TAWT parent module</description>
     <artifactId>tawt-parent</artifactId>
