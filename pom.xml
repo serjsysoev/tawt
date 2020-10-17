@@ -4,7 +4,7 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>com.github.serjsysoev</groupId>
+    <groupId>com.github.jalexpr</groupId>
     <name>_parent</name>
     <description>TAWT parent module</description>
     <artifactId>tawt-parent</artifactId>
